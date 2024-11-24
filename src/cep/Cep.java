@@ -194,7 +194,6 @@ public class Cep extends JFrame {
 					if (resultado.equals("1")) {
 						lblStatus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/check.png")));
 					} else {
-						//lblStatus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/check.png"))); implementar check vermelho
 						JOptionPane.showMessageDialog(null, "CEP não encontrado");
 					}
 				}
