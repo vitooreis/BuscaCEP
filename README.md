@@ -4,7 +4,7 @@ Mini projeto em Java para sistema desktop (Windows, Linux, Mac) que realiza a bu
 
 ![Imagem buscaCEP](src/img/busca_cep.png)
 
-## Autor
+## Autor:
 Vitor Reis
 
 ### Tecnologias usadas no projeto:
